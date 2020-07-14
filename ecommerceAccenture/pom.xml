@@ -35,12 +35,6 @@
         <version>14</version>
         <scope>system</scope>
         <systemPath>${basedir}\WebContent\WEB-INF\lib\ojdbc14.jar</systemPath>
-        
-        
-   
-        
-        
-      
         </dependency> 
 		<!-- https://mvnrepository.com/artifact/org.webjars/jquery -->
 		<dependency>
