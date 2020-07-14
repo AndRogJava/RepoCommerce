@@ -31,7 +31,8 @@ CREATE TABLE PRODOTTO(
     prezzo NUMBER(7,2) NOT NULL,
     quantita_disponibile INT NOT NULL,
     nome VARCHAR2(50) NOT NULL,
-    descrizione VARCHAR2(100)
+    descrizione VARCHAR2(100),
+    immagine VARCHAR2(100)
 );
 
 CREATE TABLE DETTAGLIO(
